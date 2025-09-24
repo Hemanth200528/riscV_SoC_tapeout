@@ -9,7 +9,7 @@
 
 ## Tools Overview
 
-### <img src="./images/Yosys.png" alt="Iverilog Logo" width="40" /> Yosys
+### <img src="./Week0/Yosys.png" alt="Yosys Logo" width="40" /> Yosys
 <!-- ![Yosys Logo](./images/Yosys.png) -->
 Yosys is an open-source RTL synthesis tool that converts Verilog designs into gate-level netlists. It is widely used for digital logic synthesis and preparing designs for physical implementation.
 
